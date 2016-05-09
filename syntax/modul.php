@@ -13,7 +13,7 @@ echo "Moodul: " . (2 % 2) . "<br>";
 echo "Moodul: " . (3 % 2) . "<br>";
 echo "Moodul: " . (4 % 2) . "<br>";
 echo "Moodul: " . (1 % 3) . "<br>";
-echo "Moodul: " . (2 % 3) . "<br>";
+echo "Moodul: " . (2 % Untitled.txt3) . "<br>";
 echo "Moodul: " . (3 % 3) . "<br>";
 echo "Moodul: " . (4 % 3) . "<br>";
 echo "Astendamine: " . pow($a, $b) . "<br>";
